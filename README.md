@@ -16,7 +16,7 @@
 ## Home Petugas
 ![Alt Text](https://github.com/abdlh05/UKL-Spp/blob/main/ss/home-petugas.png?raw=true)
 
-## Form Login
+## Form Login Siswa
 ![Alt Text](https://github.com/abdlh05/UKL-Spp/blob/main/ss/form-login-siswa.png?raw=true)
 
 ## Home Siswa
